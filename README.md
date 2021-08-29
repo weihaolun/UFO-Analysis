@@ -9,7 +9,7 @@ Dana is a data journalist writing about her hometown McMinnville, Oregon. Her ho
 
 ### Purpose
 
-The purpose of this challenge is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Besides date, I will also add city, state, country and shape. In addition, I have removed the button and set the form to update automatically when the input of filter changes on the [website](https://weihaolun.github.io/UFO-Analysis/). 
+The purpose of this challenge is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Besides date, I also added city, state, country and shape. In addition, I have removed the button and set the form to update automatically when the input of filter changes on the [website](https://weihaolun.github.io/UFO-Analysis/). 
 
 ## II. Results -- Description of how to perform a search
 
@@ -20,7 +20,7 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
 
 -	The very top part is a navigation bar with text “UFO Sightings”.
 -	Right below vav bar is a jumbotron written “The Truth Is Out There” with an image background.
--	Next section has two parts of content: left section is a title “UFO Sightings: Fact of Fancy?” and a subtitle “Ufologists Weigh In”; right section contains a paragraph information.
+-	Next section has two parts of content: left section has a header “UFO Sightings: Fact of Fancy?” and a sub-header “Ufologists Weigh In”; right section contains a paragraph of information.
 -	The bottom left section is the filter input form, where users can input one or multiple filters by date, city, state, country and shape.
 -	The bottom right section is the data table, which updates with filter inputs.
 
@@ -32,11 +32,11 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
   
     ![filter1](https://user-images.githubusercontent.com/84211948/131237250-6408858b-79d5-4e4b-a6ed-2eab73f8cd81.png)
 
--	Enter another one or multiple filters, press Enter, the data table will update to filtered data.
+-	OR, enter any other one or any multiple filters, press Enter, the data table will update to filtered data.
   
     ![filter1 2](https://user-images.githubusercontent.com/84211948/131237256-bd1067c8-44db-4fd1-8948-4ef3b89b914f.png)
 
--	Click top of the page “UFO Sighting” in nav bar to reset the filter form.
+-	Click top of the page “UFO Sighting” in nav bar to reset the filter form and data table.
   
     ![Screen Shot 2021-08-28 at 4 59 41 PM](https://user-images.githubusercontent.com/84211948/131237263-12bef0b1-d976-43b2-94f4-388e2c73a24f.png)
 
@@ -45,12 +45,12 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
 
 ### Drawback
 
-The users must have basic knowledge of the data before conducting a search. For example, the user must know the available date, cities, states, countries, and shapes in the dataset in order to get data returned. If the users randomly type a city she/he wants to search for, for instance, Honolulu, she/he will get nothing returned. 
+The users must have basic knowledge of the data before conducting a search. For example, the user must know the available date, cities, states, countries, and shapes in the dataset in order to get data returned. If the users randomly type a city that she/he wants to search for, for instance, Honolulu, she/he will get nothing returned becasue Honolulu is not available in the dataset. 
 
 ### Recommendations
 
--	To address the drawback above, it would be better if there’s a drop-down menu/list for each filter. Therefore, the users will know available elements within each filter to avoid typing invalid input. 
--	It would be a more optimal user experience if there is a button in Filter Search Section.
--	Another recommendation for development in the future is that we can remove the Filter Search Section and implement drop-down filter menu on the table header. Each filter has a drop-down, users and filter the data directly in the table.
+-	To address above drawback, it would be better if there’s a drop-down menu/list for each filter. Therefore, the users will know available elements within each filter to avoid typing invalid input. 
+-	It would be a more optimal user experience if there is a button at the bottom of Filter Search Section to confirm the search action.
+-	Another recommendation for development in the future is that we can remove the Filter Search Section and implement drop-down filter menu on the table header. Each filter has a drop-down, users would be able to filter the data directly in the table.
 
 
