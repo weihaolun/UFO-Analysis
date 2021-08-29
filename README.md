@@ -25,6 +25,9 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
 -	The bottom right section is the data table, which updates with filter inputs.
 
 ### Instruction:
+
+**Click [HERE](https://weihaolun.github.io/UFO-Analysis/) to access to the website.**
+
 -	In Filter Search section, input desired date，the table will update to results by that specific date.
   
     ![filter1](https://user-images.githubusercontent.com/84211948/131237250-6408858b-79d5-4e4b-a6ed-2eab73f8cd81.png)
