@@ -9,7 +9,7 @@ Dana is a data journalist writing about her hometown McMinnville, Oregon. Her ho
 
 ### Purpose
 
-The purpose of this challenge is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Besides date, I will also add city, state, country and shape. In addition, I have removed the button and set the form to update automatically when the input of filter changes on the website. 
+The purpose of this challenge is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Besides date, I will also add city, state, country and shape. In addition, I have removed the button and set the form to update automatically when the input of filter changes on the [website](https://weihaolun.github.io/UFO-Analysis/). 
 
 ## II. Results -- Description of how to perform a search
 
