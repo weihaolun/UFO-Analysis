@@ -42,5 +42,7 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
 
 ### Drawback
 
+The users must have basic knowledge of the data before conducting a search. For example, the user must know the available date, cities, states, countries, and shapes in the dataset in order to get data returned. If the users randomly type a city she/he wants to search for, for instance, Honolulu, she/he will get nothing returned. 
+
 ### Recommendations
 
