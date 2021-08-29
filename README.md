@@ -14,6 +14,29 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
 ## II. Results -- Description of how to perform a search
 
 
+### Structure:
+
+![fullscreenshot](https://user-images.githubusercontent.com/84211948/131237166-d1447637-c5dd-4957-9df2-3202cd8b2f0b.png)
+
+-	The very top part is a navigation bar with text “UFO Sightings”.
+-	Right below vav bar is a jumbotron written “The Truth Is Out There” with an image background.
+-	Next section has two parts of content: left section is a title “UFO Sightings: Fact of Fancy?” and a subtitle “Ufologists Weigh In”; right section contains a paragraph information.
+-	The bottom left section is the filter input form, where users can input one or multiple filters by date, city, state, country and shape.
+-	The bottom right section is the data table, which updates with filter inputs.
+
+### Instruction:
+-	In Filter Search section, input desired date，the table will update to results by that specific date.
+  
+    ![filter1](https://user-images.githubusercontent.com/84211948/131237250-6408858b-79d5-4e4b-a6ed-2eab73f8cd81.png)
+
+-	Enter another one or multiple filters, press Enter, the data table will update to filtered data.
+  
+    ![filter1 2](https://user-images.githubusercontent.com/84211948/131237256-bd1067c8-44db-4fd1-8948-4ef3b89b914f.png)
+
+-	Click top of the page “UFO Sighting” in nav bar to reset the filter form.
+  
+    ![Screen Shot 2021-08-28 at 4 59 41 PM](https://user-images.githubusercontent.com/84211948/131237263-12bef0b1-d976-43b2-94f4-388e2c73a24f.png)
+
 
 ## III. Summary
 
