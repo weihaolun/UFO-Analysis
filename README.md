@@ -46,3 +46,8 @@ The users must have basic knowledge of the data before conducting a search. For 
 
 ### Recommendations
 
+-	To address the drawback above, it would be better if there’s a drop-down menu/list for each filter. Therefore, the users will know available elements within each filter to avoid typing invalid input. 
+-	It would be a more optimal user experience if there is a button in Filter Search Section.
+-	Another recommendation for development in the future is that we can remove the Filter Search Section and implement drop-down filter menu on the table header. Each filter has a drop-down, users and filter the data directly in the table.
+
+
