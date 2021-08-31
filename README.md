@@ -36,7 +36,7 @@ The purpose of this challenge is to provide a more in-depth analysis of UFO sigh
   
     ![filter1 2](https://user-images.githubusercontent.com/84211948/131237256-bd1067c8-44db-4fd1-8948-4ef3b89b914f.png)
 
--	Click top of the page “UFO Sighting” in nav bar to reset the filter form and data table.
+-	Click top of the page “UFO Sightings” in nav bar to reset the filter form and data table.
   
     ![Screen Shot 2021-08-28 at 4 59 41 PM](https://user-images.githubusercontent.com/84211948/131237263-12bef0b1-d976-43b2-94f4-388e2c73a24f.png)
 
